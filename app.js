@@ -23,7 +23,7 @@ const readResourceAuthors = async () => {
 
 const generateId = async () => {
     const resource = await readResourceAuthors();
-    const ids = resource.map((b) => b.id);
+    const ids = resource.map((a) => a.id);
     for (let i = 0; i <= ids.length; i++) {
         if (!ids.includes(i)) {
             return i;

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Anna",
+        "surname": "Bianchi",
+        "birthyear": 1980,
+        "address": "Via Kennedy 1",
+        "id": 0
+    },
+    {
+        "name": "Marco",
+        "surname": "Ferrari",
+        "birthyear": 1950,
+        "address": "Via Bartolomeo 11",
+        "id": 1
+    },
+    {
+        "name": "Maria",
+        "surname": "Rossi",
+        "birthyear": 1955,
+        "address": "Via Rosa 46",
+        "id": 2
+    }
+]
